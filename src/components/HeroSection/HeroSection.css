@@ -1,0 +1,7 @@
+/* src/components/HeroSection/HeroSection.css */
+.hero-section {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }

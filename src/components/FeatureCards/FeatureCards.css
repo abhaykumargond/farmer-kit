@@ -1,0 +1,16 @@
+/* src/components/FeatureCards/FeatureCards.css */
+.feature-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    padding: 2rem;
+  }
+  
+  .card {
+    background: white;
+    color: black;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
